@@ -29,9 +29,14 @@ OPENAI_API_KEY=OPENAI_API_KEY="sk-proj-IDABCDEFGHIJKLMNOP-123456789123456789-JNu
 OPENAI_API_BASE=https://api.openai.com/v1
 ```
 ### configure openapi keys in cline 
-config api-keys for openai in cline
+- config api-keys for openai in cline
 
 ![cline-config-apikey](imgs/configure-cline.png)
+
+### Configure local-MCP-Server in the vscode
+-  Configure local MCP-Server
+
+![configure-local-mcp-server](imgs/configure-mcp-server-vscode.png)
 
 ### test mcp-server running locally used by openAPI via cline
 - search flights from SG to MAA tomrrow in the cline 
