@@ -1,0 +1,14 @@
+{
+  "providerProfiles": {
+    "currentApiConfigName": "bharath-profile",
+    "apiConfigs": {
+      "bharath-profile": {
+        "apiProvider": "openai",
+        "id": "bharath-profile",
+        "openAiApiKey": "sk-proj-IDABCDEFGHIJKLMNOP-123456789123456789-JNusQUA",
+        "openAiModelId": "openai/gpt-4.1-mini",
+        "openAiBaseUrl": "https://api.openai.com/v1"
+      }
+    }
+  }
+}

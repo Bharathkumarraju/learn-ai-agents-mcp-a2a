@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "flight-sim": {
+      "command": "/bin/bash",
+      "args": ["/Users/bharathkumardasaraju/external/learn-ai-agents-mcp-a2a/mock-flight-application-test/flight-sim-mcp/flight-sim-mcp.sh"],
+      "transport": "tcp",
+      "host": "127.0.0.1",
+      "port": 5000
+    }
+  }
+}

@@ -1,0 +1,2 @@
+python3 -m venv /Users/bharathkumardasaraju/external/learn-ai-agents-mcp-a2a/mock-flight-application-test/flight-sim-mcp/flight-mcp-venv && source /Users/bharathkumardasaraju/external/learn-ai-agents-mcp-a2a/mock-flight-application-test/flight-sim-mcp/flight-mcp-venv/bin/activate && pip install uv && uv pip install -r /Users/bharathkumardasaraju/external/learn-ai-agents-mcp-a2a/mock-flight-application-test/flight-sim-mcp/requirements.txt && python /Users/bharathkumardasaraju/external/learn-ai-agents-mcp-a2a/mock-flight-application-test/flight-sim-mcp/src/server.py
+
