@@ -9,6 +9,7 @@ Amazon Bedrock  -----Invoke Model----->  Application
 We get charged for the Input and Output tokens processed.
 Also we get charged for the model inference and customization 
 
+Inference:
 On-demand and Batch pricing models.
 Provisioned Throughput Models.
 
