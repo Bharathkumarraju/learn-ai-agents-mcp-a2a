@@ -75,3 +75,18 @@ bharathkumardasaraju@1.python$ python3.12 ./1.bedrock-api.py
   ]
 }
 bharathkumardasaraju@1.python$
+
+
+
+bharathkumardasaraju@1.python$ /usr/local/bin/python3.12 ./1.bedrock-api.py   
+{
+  "inputTextTokenCount": 7,
+  "results": [
+    {
+      "completionReason": "FINISH",
+      "outputText": "\nOnce upon a time, there were two dogs named Max and Bella. They were best friends and always played together. One day, they decided to go on an adventure. They ran through the woods, swam in the river, and climbed the tallest mountain. They had so much fun that they didn't want to stop. As the sun began to set, they started to head back home. Max and Bella were tired, but they were also happy. They knew that they would always have each other to play with and that their adventure would be remembered forever.",
+      "tokenCount": 115
+    }
+  ]
+}
+bharathkumardasaraju@1.python$ 
